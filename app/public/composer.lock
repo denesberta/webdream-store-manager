@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "73a17039ed9ffec1a6573133401d55d3",
+    "packages": [
+        {
+            "name": "denesberta/store_manager",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/denesberta/store_manager.git",
+                "reference": "036ee1f9e66f135ac9cfd1998802aae8bf307766"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/denesberta/store_manager/zipball/036ee1f9e66f135ac9cfd1998802aae8bf307766",
+                "reference": "036ee1f9e66f135ac9cfd1998802aae8bf307766",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "license": [
+                "LGPL-3.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Berta Denes",
+                    "email": "berta.dnes@gmail.com"
+                }
+            ],
+            "description": "store_manager library",
+            "support": {
+                "source": "https://github.com/denesberta/store_manager/tree/v1.0",
+                "issues": "https://github.com/denesberta/store_manager/issues"
+            },
+            "time": "2022-10-01T14:38:48+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^7.3|^8.0"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

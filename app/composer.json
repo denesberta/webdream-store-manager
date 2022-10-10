@@ -5,7 +5,7 @@
   "keywords": ["store_manager", "webdream"],
   "license": "MIT",
   "require": {
-    "php": "^7.3|^8.0",
+    "php": "^7.4|^8.0",
     "denesberta/store_manager": "^1.0"
   },
   "repositories": [
